@@ -1,3 +1,5 @@
+
+
 {
   "compilerOptions": {
     "lib": ["dom", "dom.iterable", "esnext"],
@@ -26,8 +28,5 @@
   "exclude": ["node_modules"]
 }
 
-"scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start -p $PORT"
-}
+
+
